@@ -1,0 +1,6 @@
+ IDENTIFICATION DIVISION.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+           DISPLAY "HELLO DEVOPS"
+               STOP RUN.
+               
